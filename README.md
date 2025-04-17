@@ -8,9 +8,9 @@ or
 
 paypal.me/briansune
 
-### This proejct targeted most commonly used camera module or sensor
+### This project aimed to support MIPI or DPI I/F off-the-shelf LCD/TFT display.
 
-### The sensors example
+### Display Examples
 
 |Idx|Display|Status|I/F|Driver IC|Lane #|Mode|Project Link|FPGA|IDE|FPS|W,H,Bpp|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
