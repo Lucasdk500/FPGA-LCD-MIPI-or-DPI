@@ -23,5 +23,7 @@ paypal.me/briansune
 |  7 | Rectangle | 🔜 PENDING | MIPI | R61322       | 4 | V   | [DXQ5D0039]()                                                                 | XC7,ZU | Vivado 2020.2 | 60 | 1080,1920,[16,24] |
 |  8 | Circle    | 🔜 PENDING | MIPI | JD9365DA-H3  | 3 | V   | [HD34003C39]()                                                                | XC7,ZU | Vivado 2020.2 | 60 |   800,800,[16,24] |
 |  9 | Rectangle | 🔜 PENDING | MIPI | ST7701S      | 2 | V   | [HXR030HSD40PIN]()                                                            | XC7,ZU | Vivado 2020.2 | 60 |   360,640,[16,24] |
-| 10 | Rectangle | 🟢 DONE    | DPI  | AT070N92/94  | x | V   | [AT070N92/94](https://github.com/briansune/max-II-cpld-sdram-tft-driver)      | MAX II | Quartus       | 60 |   800,480,24      |
-| 10 | Rectangle | 🟢 DONE    | DPI  | AT070N92/94  | x | V   | [AT070N92/94](https://github.com/briansune/Spartan_3_sdram_ftf_driver)        | XC3    | ISE 14.7      | 60 |   800,480,24      |
+| 10 | Rectangle | 🔜 PENDING | MIPI | R63419       | 8 | V   | [LS055R1SX04]()                                                               | XC7,ZU | Vivado 2020.2 | 60 | 1440,2560,[16,24] |
+| 11 | Rectangle | 🔜 PENDING | MIPI | NT35950      | 8 | V   | [AML055D105G]()                                                               | XC7,ZU | Vivado 2020.2 | 60 | 2160,3840,[16,24] |
+| 12 | Rectangle | 🟢 DONE    | DPI  | AT070N92/94  | x | V   | [AT070N92/94](https://github.com/briansune/max-II-cpld-sdram-tft-driver)      | MAX II | Quartus       | 60 |   800,480,24      |
+| 13 | Rectangle | 🟢 DONE    | DPI  | AT070N92/94  | x | V   | [AT070N92/94](https://github.com/briansune/Spartan_3_sdram_ftf_driver)        | XC3    | ISE 14.7      | 60 |   800,480,24      |
